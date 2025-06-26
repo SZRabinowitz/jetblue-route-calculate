@@ -1,0 +1,748 @@
+{
+    "CDG": [
+        "BOS",
+        "JFK"
+    ],
+    "DFW": [
+        "BOS"
+    ],
+    "SDQ": [
+        "BOS",
+        "EWR",
+        "FLL",
+        "JFK",
+        "MCO",
+        "SJU"
+    ],
+    "SEA": [
+        "BOS",
+        "JFK"
+    ],
+    "GND": [
+        "BOS",
+        "JFK"
+    ],
+    "BDA": [
+        "BOS",
+        "JFK"
+    ],
+    "FLL": [
+        "ALB",
+        "BDL",
+        "BOS",
+        "BQN",
+        "BUF",
+        "CHS",
+        "CUN",
+        "DCA",
+        "EWR",
+        "GUA",
+        "GYE",
+        "HPN",
+        "ISP",
+        "JAX",
+        "JFK",
+        "KIN",
+        "LAS",
+        "LAX",
+        "LGA",
+        "MBJ",
+        "MDE",
+        "MHT",
+        "NAS",
+        "ORH",
+        "PAP",
+        "PHL",
+        "PHX",
+        "PUJ",
+        "PVD",
+        "RDU",
+        "RIC",
+        "SDQ",
+        "SFO",
+        "SJO",
+        "SJU"
+    ],
+    "HPN": [
+        "ACK",
+        "FLL",
+        "MCO",
+        "PBI",
+        "RSW",
+        "SJU",
+        "TPA"
+    ],
+    "BDL": [
+        "FLL",
+        "JFK",
+        "MCO",
+        "PBI",
+        "RSW",
+        "SJU",
+        "TPA"
+    ],
+    "ABQ": [
+        "JFK"
+    ],
+    "SFO": [
+        "BOS",
+        "FLL",
+        "JFK"
+    ],
+    "RDU": [
+        "BOS",
+        "FLL",
+        "JFK",
+        "SJU"
+    ],
+    "ISP": [
+        "FLL",
+        "MCO",
+        "PBI"
+    ],
+    "ACK": [
+        "BOS",
+        "DCA",
+        "HPN",
+        "JFK",
+        "LGA"
+    ],
+    "PAP": [
+        "FLL",
+        "JFK"
+    ],
+    "CHS": [
+        "BOS",
+        "FLL",
+        "JFK"
+    ],
+    "PBI": [
+        "BDL",
+        "BOS",
+        "BUF",
+        "DCA",
+        "EWR",
+        "HPN",
+        "ISP",
+        "JFK",
+        "LAX",
+        "LGA",
+        "PVD"
+    ],
+    "BGI": [
+        "BOS",
+        "JFK"
+    ],
+    "SJD": [
+        "JFK"
+    ],
+    "YVR": [
+        "BOS",
+        "JFK"
+    ],
+    "SJO": [
+        "FLL",
+        "JFK",
+        "MCO"
+    ],
+    "SJU": [
+        "BDL",
+        "BOS",
+        "CUN",
+        "DCA",
+        "EWR",
+        "FLL",
+        "HPN",
+        "JFK",
+        "MCO",
+        "MDE",
+        "PUJ",
+        "PVD",
+        "RDU",
+        "SDQ",
+        "STI",
+        "STT",
+        "STX",
+        "TPA"
+    ],
+    "PDX": [
+        "BOS"
+    ],
+    "SKB": [
+        "JFK"
+    ],
+    "RIC": [
+        "BOS",
+        "FLL",
+        "MCO"
+    ],
+    "CLE": [
+        "BOS"
+    ],
+    "NAS": [
+        "BOS",
+        "FLL",
+        "JFK",
+        "MCO"
+    ],
+    "SLC": [
+        "BOS",
+        "JFK"
+    ],
+    "GUA": [
+        "FLL",
+        "JFK"
+    ],
+    "SMF": [
+        "BOS",
+        "JFK"
+    ],
+    "MAD": [
+        "BOS"
+    ],
+    "TPA": [
+        "BDL",
+        "BOS",
+        "CUN",
+        "EWR",
+        "HPN",
+        "JFK",
+        "LGA",
+        "PVD",
+        "SJU"
+    ],
+    "HYA": [
+        "JFK"
+    ],
+    "MBJ": [
+        "BOS",
+        "FLL",
+        "JFK",
+        "MCO"
+    ],
+    "PHL": [
+        "BOS",
+        "FLL"
+    ],
+    "PHX": [
+        "BOS",
+        "FLL",
+        "JFK"
+    ],
+    "TQO": [
+        "JFK"
+    ],
+    "BNA": [
+        "BOS",
+        "JFK"
+    ],
+    "ALB": [
+        "FLL",
+        "MCO"
+    ],
+    "MCO": [
+        "ALB",
+        "BDL",
+        "BOS",
+        "BQN",
+        "BUF",
+        "CUN",
+        "DCA",
+        "EWR",
+        "HPN",
+        "ISP",
+        "JFK",
+        "LGA",
+        "MBJ",
+        "MHT",
+        "NAS",
+        "ORH",
+        "PSE",
+        "PUJ",
+        "PVD",
+        "PWM",
+        "RIC",
+        "SDQ",
+        "SJO",
+        "SJU",
+        "STI",
+        "SYR"
+    ],
+    "PIT": [
+        "BOS",
+        "JFK"
+    ],
+    "LAS": [
+        "BOS",
+        "FLL",
+        "JFK"
+    ],
+    "LAX": [
+        "BOS",
+        "BUF",
+        "EWR",
+        "FLL",
+        "JFK",
+        "PBI"
+    ],
+    "MDE": [
+        "FLL",
+        "SJU"
+    ],
+    "GYE": [
+        "FLL",
+        "JFK"
+    ],
+    "RNO": [
+        "JFK"
+    ],
+    "BON": [
+        "JFK"
+    ],
+    "AMS": [
+        "BOS",
+        "JFK"
+    ],
+    "BOS": [
+        "ACK",
+        "AMS",
+        "ATL",
+        "AUA",
+        "AUS",
+        "AVL",
+        "BDA",
+        "BGI",
+        "BNA",
+        "BUF",
+        "BZN",
+        "CDG",
+        "CHS",
+        "CLE",
+        "CUN",
+        "DCA",
+        "DEN",
+        "DFW",
+        "DTW",
+        "DUB",
+        "EDI",
+        "EYW",
+        "FLL",
+        "GCM",
+        "GND",
+        "IAH",
+        "ILM",
+        "JAX",
+        "JFK",
+        "LAS",
+        "LAX",
+        "LGA",
+        "LGW",
+        "LHR",
+        "LIR",
+        "MAD",
+        "MBJ",
+        "MCO",
+        "MIA",
+        "MKE",
+        "MSY",
+        "MVY",
+        "NAS",
+        "ORD",
+        "ORF",
+        "PBI",
+        "PDX",
+        "PHL",
+        "PHX",
+        "PIT",
+        "PLS",
+        "POP",
+        "PQI",
+        "PUJ",
+        "RDU",
+        "RIC",
+        "RSW",
+        "SAN",
+        "SAV",
+        "SDQ",
+        "SEA",
+        "SFO",
+        "SJU",
+        "SLC",
+        "SMF",
+        "SRQ",
+        "STI",
+        "STT",
+        "SXM",
+        "SYR",
+        "TPA",
+        "TVC",
+        "UVF",
+        "YVR"
+    ],
+    "ROC": [
+        "JFK"
+    ],
+    "UVF": [
+        "BOS",
+        "JFK"
+    ],
+    "DTW": [
+        "BOS",
+        "JFK"
+    ],
+    "ANU": [
+        "JFK"
+    ],
+    "DUB": [
+        "BOS",
+        "JFK"
+    ],
+    "SRQ": [
+        "BOS",
+        "JFK"
+    ],
+    "PLS": [
+        "BOS",
+        "JFK"
+    ],
+    "BQN": [
+        "FLL",
+        "JFK",
+        "MCO"
+    ],
+    "EWR": [
+        "AUA",
+        "CUN",
+        "FLL",
+        "LAX",
+        "MCO",
+        "PBI",
+        "PUJ",
+        "RSW",
+        "SDQ",
+        "SJU",
+        "STI",
+        "TPA"
+    ],
+    "CTG": [
+        "JFK"
+    ],
+    "JAX": [
+        "BOS",
+        "FLL",
+        "JFK"
+    ],
+    "TVC": [
+        "BOS"
+    ],
+    "STI": [
+        "BOS",
+        "EWR",
+        "JFK",
+        "MCO",
+        "SJU"
+    ],
+    "STT": [
+        "BOS",
+        "SJU"
+    ],
+    "STX": [
+        "SJU"
+    ],
+    "MHT": [
+        "FLL",
+        "JFK",
+        "MCO",
+        "RSW"
+    ],
+    "CUN": [
+        "BOS",
+        "EWR",
+        "FLL",
+        "JFK",
+        "MCO",
+        "SJU",
+        "TPA"
+    ],
+    "CUR": [
+        "JFK"
+    ],
+    "EYW": [
+        "BOS"
+    ],
+    "MIA": [
+        "BOS",
+        "JFK"
+    ],
+    "LGA": [
+        "ACK",
+        "BOS",
+        "FLL",
+        "MCO",
+        "PBI",
+        "TPA"
+    ],
+    "POP": [
+        "BOS",
+        "JFK"
+    ],
+    "IAH": [
+        "BOS",
+        "JFK"
+    ],
+    "POS": [
+        "JFK"
+    ],
+    "RSW": [
+        "BDL",
+        "BOS",
+        "EWR",
+        "HPN",
+        "JFK",
+        "MHT",
+        "ORH",
+        "PVD"
+    ],
+    "LGW": [
+        "BOS"
+    ],
+    "SVD": [
+        "JFK"
+    ],
+    "BUF": [
+        "BOS",
+        "FLL",
+        "JFK",
+        "LAX",
+        "MCO",
+        "PBI"
+    ],
+    "ONT": [
+        "JFK"
+    ],
+    "LHR": [
+        "BOS",
+        "JFK"
+    ],
+    "BUR": [
+        "JFK"
+    ],
+    "MKE": [
+        "BOS"
+    ],
+    "PQI": [
+        "BOS"
+    ],
+    "LIR": [
+        "BOS",
+        "JFK"
+    ],
+    "ATL": [
+        "BOS",
+        "JFK"
+    ],
+    "SXM": [
+        "BOS",
+        "JFK"
+    ],
+    "AUA": [
+        "BOS",
+        "EWR",
+        "JFK"
+    ],
+    "JFK": [
+        "ABQ",
+        "ACK",
+        "AMS",
+        "ANU",
+        "ATL",
+        "AUA",
+        "BDA",
+        "BDL",
+        "BGI",
+        "BNA",
+        "BON",
+        "BOS",
+        "BQN",
+        "BUF",
+        "BUR",
+        "BZE",
+        "BZN",
+        "CDG",
+        "CHS",
+        "CTG",
+        "CUN",
+        "CUR",
+        "DCA",
+        "DEN",
+        "DTW",
+        "DUB",
+        "EDI",
+        "FLL",
+        "GCM",
+        "GEO",
+        "GND",
+        "GUA",
+        "GYE",
+        "HYA",
+        "IAH",
+        "JAX",
+        "KIN",
+        "LAS",
+        "LAX",
+        "LHR",
+        "LIR",
+        "MBJ",
+        "MCO",
+        "MHT",
+        "MIA",
+        "MSY",
+        "MVY",
+        "NAS",
+        "ONT",
+        "ORD",
+        "PAP",
+        "PBI",
+        "PHX",
+        "PIT",
+        "PLS",
+        "POP",
+        "POS",
+        "PSE",
+        "PUJ",
+        "PVD",
+        "PWM",
+        "RDU",
+        "RNO",
+        "ROC",
+        "RSW",
+        "SAN",
+        "SAP",
+        "SAV",
+        "SDQ",
+        "SEA",
+        "SFO",
+        "SJD",
+        "SJO",
+        "SJU",
+        "SKB",
+        "SLC",
+        "SMF",
+        "SRQ",
+        "STI",
+        "SVD",
+        "SXM",
+        "SYR",
+        "TPA",
+        "TQO",
+        "UVF",
+        "YVR"
+    ],
+    "AUS": [
+        "BOS"
+    ],
+    "PSE": [
+        "JFK",
+        "MCO"
+    ],
+    "SYR": [
+        "BOS",
+        "JFK",
+        "MCO"
+    ],
+    "KIN": [
+        "FLL",
+        "JFK"
+    ],
+    "AVL": [
+        "BOS"
+    ],
+    "ORD": [
+        "BOS",
+        "JFK"
+    ],
+    "ORF": [
+        "BOS"
+    ],
+    "ORH": [
+        "FLL",
+        "MCO",
+        "RSW"
+    ],
+    "PUJ": [
+        "BOS",
+        "EWR",
+        "FLL",
+        "JFK",
+        "MCO",
+        "SJU"
+    ],
+    "BZE": [
+        "JFK"
+    ],
+    "GCM": [
+        "BOS",
+        "JFK"
+    ],
+    "BZN": [
+        "BOS",
+        "JFK"
+    ],
+    "PVD": [
+        "FLL",
+        "JFK",
+        "MCO",
+        "PBI",
+        "RSW",
+        "SJU",
+        "TPA"
+    ],
+    "PWM": [
+        "JFK",
+        "MCO"
+    ],
+    "GEO": [
+        "JFK"
+    ],
+    "MSY": [
+        "BOS",
+        "JFK"
+    ],
+    "EDI": [
+        "BOS",
+        "JFK"
+    ],
+    "ILM": [
+        "BOS"
+    ],
+    "DCA": [
+        "ACK",
+        "BOS",
+        "FLL",
+        "JFK",
+        "MCO",
+        "MVY",
+        "PBI",
+        "SJU"
+    ],
+    "SAN": [
+        "BOS",
+        "JFK"
+    ],
+    "SAP": [
+        "JFK"
+    ],
+    "SAV": [
+        "BOS",
+        "JFK"
+    ],
+    "MVY": [
+        "BOS",
+        "DCA",
+        "JFK"
+    ],
+    "DEN": [
+        "BOS",
+        "JFK"
+    ]
+}
